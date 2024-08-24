@@ -16,41 +16,41 @@ class Highlight extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: defalutpadding),
       child:Responsive.isMobileLarge(context)?Column(children: [Row(mainAxisAlignment:MainAxisAlignment.spaceBetween,children: [
         Headingtext(
-          counter: AnimatedCounter(value: 150, text: 'K+'),
-          name: "Subscriber",
+          counter: AnimatedCounter(value: 700, text: '+'),
+          name: "Linkdine",
         ),
         Headingtext(
           counter: AnimatedCounter(value: 45, text: '+'),
-          name: "Videos",
+          name: "DSA Rating",
         ),
       ],),
         SizedBox(height: defalutpadding,),Row(mainAxisAlignment:MainAxisAlignment.spaceBetween,children: [
           Headingtext(
             counter: AnimatedCounter(value: 30, text: '+'),
-            name: "Github Project",
+            name: "Github Repositories",
           ),
           Headingtext(
-            counter: AnimatedCounter(value: 13, text: 'K+'),
-            name: "Stars",
+            counter: AnimatedCounter(value: 5, text: '+'),
+            name: "Courses",
           ),
         ],)],) :Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Headingtext(
-            counter: AnimatedCounter(value: 150, text: 'K+'),
-            name: "Subscriber",
+            counter: AnimatedCounter(value: 700, text: '+'),
+            name: "Linkdine",
           ),
           Headingtext(
-            counter: AnimatedCounter(value: 45, text: '+'),
-            name: "Videos",
+            counter: AnimatedCounter(value: 80, text: '+'),
+            name: "DSA Rating",
           ),
           Headingtext(
-            counter: AnimatedCounter(value: 30, text: '+'),
-            name: "Github Project",
+            counter: AnimatedCounter(value: 25, text: '+'),
+            name: "Github Repositories",
           ),
           Headingtext(
-            counter: AnimatedCounter(value: 13, text: 'K+'),
-            name: "Stars",
+            counter: AnimatedCounter(value: 5, text: '+'),
+            name: "Courses",
           ),
         ],
       ),

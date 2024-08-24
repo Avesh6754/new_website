@@ -1,6 +1,6 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
-
-
 
 class MyInfo extends StatelessWidget {
   const MyInfo({
@@ -23,16 +23,19 @@ class MyInfo extends StatelessWidget {
               radius: 50,
               backgroundImage: AssetImage('assets/image/profile.jpeg'),
             ),
-            Spacer(),                            Text(
+            Spacer(),
+            Text(
               'Avesh Prajapati',
               style: Theme.of(context).textTheme.titleMedium,
             ),
             Text(
-              'Flutter Developer & Founder of \n The Flutter Way',
+              'Flutter Developer & Pursuing BCA Degree \n From SSIU University',
               textAlign: TextAlign.center,
-              style: TextStyle(
-                  fontWeight: FontWeight.w200, height: 1.5),),
-            Spacer(flex: 2,)
+              style: TextStyle(fontWeight: FontWeight.w500, height: 1.5,color:Colors.white60 ),
+            ),
+            Spacer(
+              flex: 2,
+            )
           ],
         ),
       ),

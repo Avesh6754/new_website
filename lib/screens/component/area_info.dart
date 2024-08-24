@@ -23,7 +23,7 @@ class Areainfo extends StatelessWidget {
             style: TextStyle(color: Colors.white),
           ),
           Text(
-            '$text',
+            '$text',style: TextStyle(fontWeight: FontWeight.w500,color: Colors.white60),
           ),
         ],
       ),
