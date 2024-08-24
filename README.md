@@ -65,6 +65,7 @@ Automated workflows for continuous integration and deployment are implemented, e
   <img src="https://github.com/user-attachments/assets/333a8faa-346b-4f08-8088-1054fddd55a2" width="22%" Height="35%">
 
   <img src="https://github.com/user-attachments/assets/9787775b-b29e-473e-8dfe-948f8fce2f89" width="22%" Height="35%">
+   <img src="https://github.com/user-attachments/assets/5cabdb84-0dbc-46c6-8712-c12155a154f0" width="100%" Height="80%">
 
    <img src="https://github.com/user-attachments/assets/5930c937-d0fc-4ec6-858e-492bc07f4f04" width="100%" Height="80%">
 
