@@ -57,3 +57,17 @@ The Flutter web application is hosted on [insert hosting platform, e.g., Firebas
 
 ### CI/CD
 Automated workflows for continuous integration and deployment are implemented, ensuring smooth updates and maintenance of the website.
+
+
+<p>
+ 
+
+  <img src="https://github.com/user-attachments/assets/333a8faa-346b-4f08-8088-1054fddd55a2" width="22%" Height="35%">
+
+  <img src="https://github.com/user-attachments/assets/9787775b-b29e-473e-8dfe-948f8fce2f89" width="22%" Height="35%">
+
+
+
+
+https://github.com/user-attachments/assets/89c75ac9-78c7-40c8-a079-d32d26e55528
+
